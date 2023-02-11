@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986517058241",
+    "project_id": "hoanghanh-test1",
+    "storage_bucket": "hoanghanh-test1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986517058241:android:bd24cb8dbb9ca558131a40",
+        "android_client_info": {
+          "package_name": "com.example.flutter2_test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986517058241-c0meqnk830f1r7qb7qcao9n5pm43ghmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5_Koy1-chTscNn4Ynjp8yNTlJ-FLhU2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986517058241-c0meqnk830f1r7qb7qcao9n5pm43ghmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
